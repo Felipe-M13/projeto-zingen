@@ -19,7 +19,7 @@
   --stroke-color: #27272A;
   --text-color-primary: #F4F4F5;
   --text-color-secondary: #A1A1AA;
-  --brand-color: #f7b733;
+  --brand-color-primary: #f7b733;
   --brand-color-secondary: #fc4a1a;
 
   --ff-sans: 'Inter', system-ui, sans-serif;
@@ -87,6 +87,7 @@ ul [role="list"] {
     --py-base: 1.5rem;
     --py-lg: 2.5rem;
     --py-xl: 5rem;
+
     --px-lg: 2rem;
   }
 }
